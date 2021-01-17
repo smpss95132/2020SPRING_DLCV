@@ -3,11 +3,9 @@
   * K-means clustering by pixel intensity
     ![][1_1]
   * Principle Component Analysis
+   * Eigen Faces
     ![][1_2]
-
-
-
-
+   * Combine Eigen faces
     ![][1_3]
   * Horizontal & Vertical edge detection
     ![][1_4]
@@ -45,7 +43,7 @@
 [2_1]:/imgs/2_1.jpg
 [2_2]:/imgs/2_2.png
 [2_3]:/imgs/2_3.jpg
-[2_3]:/imgs/2_4.png
+[2_4]:/imgs/2_4.png
 [3_1]:/imgs/3_1.png
 [3_2]:/imgs/3_2.png
 [3_3]:/imgs/3_3.png
