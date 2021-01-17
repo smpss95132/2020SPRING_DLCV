@@ -4,6 +4,10 @@
     ![][1_1]
   * Principle Component Analysis
     ![][1_2]
+
+
+
+
     ![][1_3]
   * Horizontal & Vertical edge detection
     ![][1_4]
