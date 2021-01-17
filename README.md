@@ -1,6 +1,6 @@
 ## index
 * HW1
-  * K-means clustering by pixel intensity
+  *K-means clustering by pixel intensity
     ![][1_1]
   * Principle Component Analysis
    * Eigen Faces
